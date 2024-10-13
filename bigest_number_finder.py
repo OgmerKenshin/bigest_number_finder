@@ -27,3 +27,7 @@ if num3 > highest_num:
 
 if num4 > highest_num:
     highest_num = num4
+
+
+if num5 > highest_num:
+    highest_num = num5
