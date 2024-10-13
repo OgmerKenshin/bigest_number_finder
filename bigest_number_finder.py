@@ -23,3 +23,7 @@ if num2 > highest_num:
 
 if num3 > highest_num:
     highest_num = num3
+
+
+if num4 > highest_num:
+    highest_num = num4
