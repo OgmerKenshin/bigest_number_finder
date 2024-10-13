@@ -31,3 +31,9 @@ if num4 > highest_num:
 
 if num5 > highest_num:
     highest_num = num5
+
+
+#last function is to print the highest function found
+print(f"The highest number is: {highest_num}")
+
+
