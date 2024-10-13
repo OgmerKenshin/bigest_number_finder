@@ -12,3 +12,14 @@ num5 = float(input("please enter the 5th number: "))
 
 
 highest_num = num1
+
+
+#Insert if statements then rinse and repeat
+
+
+if num2 > highest_num:
+    highest_num = num2
+
+
+if num3 > highest_num:
+    highest_num = num3
